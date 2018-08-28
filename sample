@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:blue;">Testing jenkins environment with puppet and git</h1>
+<p style="color:red;">If you can see this text in nginx output enivironment is successful</p>
+
+</body>
+</html>
